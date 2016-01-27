@@ -1,0 +1,28 @@
+{
+  "name": "shroomscore",
+  "main": "browser/bundle.js",
+  "version": "0.1.36",
+  "homepage": "https://github.com/noise23/shrooms",
+  "authors": [
+    "Larry Ren (<ren@reddcoin.com>)"
+  ],
+  "description": "SHROOMS Core Library in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "shrooms",
+    "shrm",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
